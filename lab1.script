@@ -1,0 +1,18 @@
+Script started on 2015年03月10日 (週二) 19時45分28秒
+]0;F74032170@2015cpp: ~F74032170@2015cpp:~$ whoami;pwd
+F74032170
+/home/F74032170
+]0;F74032170@2015cpp: ~F74032170@2015cpp:~$ fir [K[K[K[Kgit config -l
+user.name=f74032170
+user.email=s010554@fssh.khc.edu.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origrin.url=https://github.com/f74032170/lab1.git
+remote.origrin.fetch=+refs/heads/*:refs/remotes/origrin/*
+]0;F74032170@2015cpp: ~F74032170@2015cpp:~$ git clone https:.[K//github.com/f74032170/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74032170@2015cpp: ~F74032170@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 19時47分07秒
